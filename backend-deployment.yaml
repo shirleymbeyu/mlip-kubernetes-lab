@@ -14,16 +14,14 @@ spec:
     spec:
       containers:
       - name: flask-backend
-        # TODO: Replace <DockerHub-Username> with your Docker Hub username, and use the appropriate image name and tag
-        image: <DockerHub-Username>/<backend-image-name>:<backend-image-tag>
+        image: sddaiddo/flask-backend:1.0.0
         imagePullPolicy: Always
         ports:
         - containerPort: 5001
         lifecycle:
           preStop:
-            ## TODO: Implement a preStop hook that signals the running application to
-            ## log that shutdown preparation has started, then waits briefly before
-            ## Kubernetes sends SIGTERM to terminate the container.
+            exec:
+              command: ["sh", "-c", "kill -USR1 1; sleep 5"]
         volumeMounts:
         - name: model-volume
           mountPath: /shared-volume

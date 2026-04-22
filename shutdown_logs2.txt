@@ -1,0 +1,6 @@
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:42:04.476268
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:42:04.476268
+preStop signal received (SIGUSR1). Host preparing for shutdown: flask-backend-deployment-6dfcc88589-xk6zp. Last model training time: 2026-04-22T15:42:04.476268
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:42:04.476268
+preStop signal received (SIGUSR1). Host preparing for shutdown: flask-backend-deployment-6dfcc88589-rr5z2. Last model training time: 2026-04-22T15:42:04.476268
+SIGTERM received. Host being terminated: flask-backend-deployment-6dfcc88589-xk6zp. Last model training time: 2026-04-22T15:42:04.476268

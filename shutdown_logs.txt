@@ -1,0 +1,25 @@
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:36:04.805826
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:36:04.805826
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:36:04.805826
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:36:04.805826
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:38:06.576086
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:38:06.576086
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:38:06.576086
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:38:06.576086
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:40:04.085915
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:40:04.085915
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:40:04.085915
+SIGTERM received. Host being terminated: flask-backend-deployment-699b769d98-qmlf7. Last model training time: 2026-04-22T15:40:04.085915
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:34:04.937922
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:36:04.805826
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:36:04.805826
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:36:04.805826
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:36:04.805826
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:38:06.576086
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:38:06.576086
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:38:06.576086
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:38:06.576086
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:40:04.085915
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:40:04.085915
+Model loaded successfully from /shared-volume/model.joblib last trained at 2026-04-22T15:40:04.085915
+SIGTERM received. Host being terminated: flask-backend-deployment-699b769d98-whjdx. Last model training time: 2026-04-22T15:40:04.085915

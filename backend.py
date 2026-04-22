@@ -67,7 +67,8 @@ def predict_engagement():
         # Create feature vector
         features = pd.DataFrame([user_data])[feature_names]
         
-        # TODO: implement prediction of engagement_score using the current_model
+        # Predict engagement_score using the loaded model
+        engagement_score = float(current_model.predict(features)[0])
 
         return jsonify({
             "engagement_score": engagement_score,
